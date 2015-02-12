@@ -1,6 +1,20 @@
-$body-bg:													#3498db;
+@import url(http://fonts.googleapis.com/css?family=Sintony:400,700);
+
+$body-bg:													#F4B350;
+$font-family-sans-serif:					'Sintony', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-default-bg:								#34495e;
-$navbar-default-link-color:				#ecf0f1;	
+$navbar-default-link-color:				#ecf0f1;
+$navbar-height:										45px;
+$btn-default-bg:									#2ECC71;
 $brand-primary: 									#e74c3c;
 $jumbotron-bg:										#ecf0f1;
+
 @import 'bootstrap';
+
+.center {
+	text-align:	center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
