@@ -5,9 +5,18 @@ $font-family-sans-serif:					'Sintony', 'Helvetica Neue', Helvetica, Arial, sans
 $navbar-default-bg:								#34495e;
 $navbar-default-link-color:				#ecf0f1;
 $navbar-height:										45px;
-$btn-default-bg:									#2ECC71;
+$btn-default-color:								#fff;
+$btn-default-border:							#333;
+$btn-default-bg:									#913D88;
 $brand-primary: 									#e74c3c;
+$btn-primary-border:							#333;
+$brand-danger:										#4183D7;
+$btn-danger-border:								#333;
 $jumbotron-bg:										#ecf0f1;
+$panel-bg:												#D2D7D3;
+$panel-default-heading-bg:				#34495e;
+$panel-footer-bg:									#34495e;
+$panel-default-border:						#000000;
 
 @import 'bootstrap';
 
